@@ -1,6 +1,8 @@
 h1{color: cyan;
-background-color:blue}
+background-color:red}
 p{color:cyan;
-Background-color:blue}
-body{Background-color:blue}
+Background-color:red}
+body{Background-color:red}
 ul{color:cyan}
+img{border:5px solid blue}
+ol{color:cyan}
